@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoDownloaderFromY2Mate", "VideoDownloaderFromY2Mate\VideoDownloaderFromY2Mate.csproj", "{DE124D61-945F-4735-97B3-E05602556E3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE124D61-945F-4735-97B3-E05602556E3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE124D61-945F-4735-97B3-E05602556E3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE124D61-945F-4735-97B3-E05602556E3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE124D61-945F-4735-97B3-E05602556E3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {224EA292-0D9B-42CC-A24E-FCFFC70F5283}
+	EndGlobalSection
+EndGlobal
