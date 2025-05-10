@@ -9,9 +9,7 @@
 </h4>
 
 <p align="center">
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://img.shields.io/badge/C%23-00599C?style=flat&logo=c-sharp&logoColor=white" alt="C#">
-    </a>
+    <img src="https://img.shields.io/badge/C%23-00599C?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 </p>
 
 <p align="center">
